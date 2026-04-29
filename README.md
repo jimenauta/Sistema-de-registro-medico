@@ -24,5 +24,12 @@ Se desarrolló una aplicación web con frontend y backend conectados mediante un
 
 ## ⚙️ Instalación y uso
 
-1. Clona el repositorio:
+1. Clona el repositorio
+2. 2. Instala las dependencias de Python:
+   3. 3. Ejecuta el servidor backend:
+      4. 4. Abre el archivo `frontend/index.html` en tu navegador
+5. Usa el formulario para registrar pacientes, buscar por cédula o cargar la lista completa
 
+## 👩‍💻 Desarrollado por
+
+Jimena Uta — 2025
